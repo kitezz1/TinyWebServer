@@ -1,0 +1,88 @@
+2020-04-21 00:06:34.081552 [info]: deal with the client(80.82.70.187)
+2020-04-21 00:06:34.081737 [info]: GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1
+2020-04-21 00:06:34.081757 [info]: Host: www.baidu.com
+2020-04-21 00:06:34.081764 [info]: User-Agent: Mozilla
+2020-04-21 00:06:34.081770 [info]: oop!unknow header: User-Agent: Mozilla
+2020-04-21 00:06:34.081776 [info]: If-Modified-Since: Thu, 19 Apr 2012 09:51:20 GMT
+2020-04-21 00:06:34.081781 [info]: oop!unknow header: If-Modified-Since: Thu, 19 Apr 2012 09:51:20 GMT
+2020-04-21 00:06:34.081786 [info]: 
+2020-04-21 00:06:34.081843 [info]: adjust timer once
+2020-04-21 00:06:34.781937 [info]: timer tick
+2020-04-21 00:06:39.782109 [info]: timer tick
+2020-04-21 00:06:44.782282 [info]: timer tick
+2020-04-21 00:06:49.782490 [info]: timer tick
+2020-04-21 00:06:49.782591 [info]: close fd 16
+2020-04-21 01:30:00.548205 [info]: deal with the client(5.14.82.28)
+2020-04-21 01:30:00.548312 [info]: adjust timer once
+2020-04-21 01:30:00.896743 [info]: deal with the client(5.14.82.28)
+2020-04-21 01:30:00.896839 [info]: GET / HTTP/1.1
+2020-04-21 01:30:00.896857 [info]: 
+2020-04-21 01:30:00.896911 [info]: request:HTTP/1.1 200 OK
+
+2020-04-21 01:30:00.896920 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2020-04-21 01:30:00.896927 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+2020-04-21 01:30:00.896933 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+
+2020-04-21 01:30:00.896948 [info]: adjust timer once
+2020-04-21 01:30:00.897021 [info]: close fd 16
+2020-04-21 01:49:21.366499 [info]: deal with the client(139.162.79.87)
+2020-04-21 01:49:21.366603 [info]: GET / HTTP/1.1
+2020-04-21 01:49:21.366629 [info]: Host: 121.199.72.226:8000
+2020-04-21 01:49:21.366643 [info]: User-Agent: Mozilla/5.0
+2020-04-21 01:49:21.366655 [info]: oop!unknow header: User-Agent: Mozilla/5.0
+2020-04-21 01:49:21.366665 [info]: Accept-Encoding: gzip
+2020-04-21 01:49:21.366675 [info]: oop!unknow header: Accept-Encoding: gzip
+2020-04-21 01:49:21.366684 [info]: Connection: close
+2020-04-21 01:49:21.366693 [info]: 
+2020-04-21 01:49:21.366738 [info]: request:HTTP/1.1 200 OK
+
+2020-04-21 01:49:21.366750 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2020-04-21 01:49:21.366760 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+2020-04-21 01:49:21.366769 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+
+2020-04-21 01:49:21.366789 [info]: adjust timer once
+2020-04-21 01:49:21.366879 [info]: close fd 16
+2020-04-21 02:40:44.363107 [info]: deal with the client(47.92.116.44)
+2020-04-21 02:40:44.363201 [info]: GET / HTTP/1.1
+2020-04-21 02:40:44.363217 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0
+2020-04-21 02:40:44.363226 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0
+2020-04-21 02:40:44.363232 [info]: Host: 121.199.72.226:8000
+2020-04-21 02:40:44.363238 [info]: Connection: Keep-Alive
+2020-04-21 02:40:44.363243 [info]: Accept-Encoding: gzip
+2020-04-21 02:40:44.363249 [info]: oop!unknow header: Accept-Encoding: gzip
+2020-04-21 02:40:44.363254 [info]: 
+2020-04-21 02:40:44.363290 [info]: request:HTTP/1.1 200 OK
+
+2020-04-21 02:40:44.363297 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2020-04-21 02:40:44.363303 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2020-04-21 02:40:44.363308 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2020-04-21 02:40:44.363322 [info]: adjust timer once
+2020-04-21 02:40:44.363373 [info]: send data to the client(47.92.116.44)
+2020-04-21 02:40:44.363385 [info]: adjust timer once
+2020-04-21 02:40:44.924286 [info]: timer tick
+2020-04-21 02:40:49.180562 [info]: close fd 16

@@ -107,7 +107,7 @@ int main(int argc, char *argv[])
     addsig(SIGPIPE, SIG_IGN);
 
     //单例模式创建数据库连接池
-    connection_pool *connPool = connection_pool::GetInstance("localhost", "root", "root", "qgydb", 3306, 8);
+    connection_pool *connPool = connection_pool::GetInstance("localhost", "root", "a812872697", "serverdb", 3306, 8);
 
     //创建线程池
     threadpool<http_conn> *pool = NULL;
